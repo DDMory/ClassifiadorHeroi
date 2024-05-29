@@ -20,7 +20,7 @@ isso, foi realizado os seguintes passos:
 1. digitar `npm init` no terminal, dentro da pasta que contem
 o arquivo `Hero.js`
 
-2. Finalizado o passo 1, digitar 'nmp instll prompt-sync'
+2. Finalizado o passo 1, digitar `npm instll prompt-sync`
 
 Realizando esses passos, você será capaz de atribuir às variaveis valores
 fornecidos pelo usuario.
