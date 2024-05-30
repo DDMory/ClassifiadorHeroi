@@ -36,7 +36,7 @@ git clone https://github.com/DDMory/ClassifiadorHeroi.git
 
 2. Entre na pasta do projeto
 ```bash
-cd ClassifiadorHeroi
+cd ClassifHeroWork
 ```
 
 3. Execute o arquivo
